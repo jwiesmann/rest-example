@@ -1,6 +1,6 @@
-CREATE DATABASE `searchmetrics` /*!40100 DEFAULT CHARACTER SET utf8 */;
+CREATE DATABASE `inetsource` /*!40100 DEFAULT CHARACTER SET utf8 */;
 
-use searchmetrics;
+use inetsource;
 
 CREATE TABLE `article` (
   `id` int(11) NOT NULL AUTO_INCREMENT,
