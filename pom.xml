@@ -3,7 +3,7 @@
 
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.searchmetrics</groupId>
+    <groupId>de.inetsource</groupId>
     <artifactId>news-mgmt-system</artifactId>
     <packaging>war</packaging>
     <version>1.0-SNAPSHOT</version>
